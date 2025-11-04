@@ -13,6 +13,7 @@ A free crochet pattern to make your own Ferris
 - increases https://www.youtube.com/watch?v=CvD1qrrRX5c
 - decreases https://www.youtube.com/watch?v=ZXsiVk52_vA
 - chain https://www.youtube.com/watch?v=Zzyylyls6KE
+- sewing https://www.youtube.com/watch?v=En2AdIgD1bI
 
 ## Body:
 - Round 1: Chain 10 [10]
@@ -25,6 +26,8 @@ A free crochet pattern to make your own Ferris
 - 8: (inc 1, sc 5) x 6 [42]
 - 9 - 13: sc 42 [42]
 
+![body](/images/body.jpg)
+
 At this point we are almost done with the body, we only need to start closing the bottom.
 
 I've worked BLO (back loop only) to simulate the border of the shell, but you can do normal stitches.  
@@ -32,7 +35,12 @@ I've worked BLO (back loop only) to simulate the border of the shell, but you ca
 - 14: BLO sc 42 [42]
 - 15: (dec 1, sc 5) x 6 [36]
 - 16: (dec 1, sc 4) x 6 [30]
+
+![decreases](/images/body_bottom.jpg)
+
 - Start stuffing the body.
+
+![stuffing](/images/body_stuffing.jpg)
 - 17: (dec 1, sc 3) x 6 [24]
 - 18: (dec 1, sc 2) x 6 [18]
 - 19: (dec 1, sc 1) x 6 [12]
@@ -41,6 +49,9 @@ I've worked BLO (back loop only) to simulate the border of the shell, but you ca
 
 Leave a tail and fasten off
 
+![stuffed body 1](/images/body_front_stuffed.jpg)
+![stuffed body 2](/images/body_angle_stuffed.jpg)
+![stuffed body 3](/images/body_top_stuffed.jpg)
 
 ## Claw:
 Make two
@@ -67,13 +78,16 @@ Close trying to make the end pointy
 - Round 1: sc 4 in a magic ring [4]
 - 2 - 4: sc 4 [4]
 
+![claw and arm pieces](/images/claw_arm_pieces.jpg)
+
 Leave a long tail for sewing
 
 ### Assembly
 Sew PT2 to the side of PT1, it should end up looking like a "thumb"
+![claw assmebled](/images/claw_assembled.jpg)
 
 Sew PT3 to the base of PT1
-
+![claw and arm assembled](/images/claw_arm_assembled.jpg)
 
 ## Legs
 Make four
@@ -113,3 +127,6 @@ An alternative could be using black yarn and making a magic ring of 4 or even sa
 ## Mouth
 Shape the mouth with a needle and black yarn to give your preferred smirk to Ferris! 
 https://youtube.com/shorts/wiWKOgTtkTk?si=xqTpPKM22-4wT79E
+
+
+![ferris](/images/ferris.jpg)
