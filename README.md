@@ -1,6 +1,18 @@
-# Ferris-crochet-pattern
+# Ferris crochet pattern
 A free crochet pattern to make your own Ferris 
 
+# Legend
+| glyph | meaning |
+| ----- | ------- |
+|sc 	|   single crochet |
+|inc    |	increment/increase |
+|dec    |	decrease |
+
+# Tutorials
+- magic ring https://www.youtube.com/watch?v=WLTY_-31Ztk
+- increases https://www.youtube.com/watch?v=CvD1qrrRX5c
+- decreases https://www.youtube.com/watch?v=ZXsiVk52_vA
+- chain https://www.youtube.com/watch?v=Zzyylyls6KE
 
 ## Body:
 - Round 1: Chain 10 [10]
@@ -100,3 +112,4 @@ An alternative could be using black yarn and making a magic ring of 4 or even sa
 
 ## Mouth
 Shape the mouth with a needle and black yarn to give your preferred smirk to Ferris! 
+https://youtube.com/shorts/wiWKOgTtkTk?si=xqTpPKM22-4wT79E
